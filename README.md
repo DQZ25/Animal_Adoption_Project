@@ -12,7 +12,7 @@ The code was developed and test using Python 3.12+.
 
 The core dependencies for this project are:
 
-pandas, matplotlib, LogisticRegression, SVM, RandomForest, XGBoost, SHAP
+pandas, numpy, matplotlib, scikit-learn, XGBoost, SHAP
 
 ## Author
 Dequan Zhang(dequan_zhang@brown.edu)
